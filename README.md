@@ -1,3 +1,7 @@
 # framework_snake
 
-js snake with various js frameworks
+JavaScript snake with various JavaScript frameworks
+
+## Frameworks so far:
+
+1. React
